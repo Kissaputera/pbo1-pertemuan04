@@ -22,6 +22,6 @@ public class While {
             System.out.println("Isi gelas sekarang : " + isiGelas + "ml");
         }
         
-        System.out.println("Finale : Isi gelas sekarang : " + penuh + "ml");
+        System.out.println("Finale : Isi gelas sekarang : " + isiGelas + "ml");
     }
 }
