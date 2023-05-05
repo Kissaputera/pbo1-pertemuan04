@@ -22,7 +22,7 @@ public class DoWhile {
         System.out.println("Isi gelas sekarang : " + isiGelas + "ml");
         }while(isiGelas != penuh);
         
-        System.out.println("Finale : Isi gelas sekarang : " + penuh + "ml"); 
+        System.out.println("Finale : Isi gelas sekarang : " + isiGelas + "ml"); 
         
     }
 }
